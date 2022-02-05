@@ -65,33 +65,446 @@ Grading
 
 Grades will be calculated as follows:
 
-| COURSEWORKS | PERCENTAGES |
-| --- | --- |
-| Papers 1–3 | 35% |
-| Final project (Paper 4 and final presentation) | 20% |
-| Class participation and attendance | 15% |
-| Two exams | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSEWORKS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers 1–3
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project (Paper 4 and final presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and attendance
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two exams
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students must receive a passing grade for each component of the course in order to pass the course as a whole. Any student who misses three or more classes will receive a failing grade for attendance, and thus receive a failing grade for the class.
 
 Calendar
 --------
 
-| SES # | TOPICS | PRIMARY CASE STUDIES | WORKSHOPS And DEMONSTRATIONS | KEY DATES |
-| --- | --- | --- | --- | --- |
-| 1–2 |  {{< br >}}{{< br >}} Introduction: What is a Soundscape? {{< br >}}{{< br >}} The concept of soundscapes and its application to the study of world music in North America. {{< br >}}{{< br >}}  | Tuvan throat singing (khoomii) | &nbsp; |
-| 3–4 |  {{< br >}}{{< br >}} Sound: The Materials of Music {{< br >}}{{< br >}} Building a cross-cultural musical vocabulary, with attention to quality, pitch, rhythm, and intensity. {{< br >}}{{< br >}}  | &nbsp; | Paper 1 due Session 4 |
-| 5–6 |  {{< br >}}{{< br >}} Setting: The study of Local Musics {{< br >}}{{< br >}} Exploration of a composite "cityscape," the music of greater Boston. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Boston, including musics of ethnic communities; the "folk music scene"; the "early music" world, and others. Musical instruments and vocal styles. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Guest lecture & demonstration: Cory Pesaturo, accordion {{< br >}}{{< br >}}  | &nbsp; |
-| 7-9 |  {{< br >}}{{< br >}} Significance: Music's Meaning in Everyday Life (Part I) {{< br >}}{{< br >}} The role of drumming and dance in Senegal, West Africa. {{< br >}}{{< br >}}  | Sabar | Workshop: Senegalese drumming | &nbsp; |
-| 10 | Catch-up / review | &nbsp; | Paper 1 revision due |
-| 11 | Exam 1 | &nbsp; |
-| 12 | Required concert: Ana Moura at Berklee Performance Center | &nbsp; |
-| 13–14 |  {{< br >}}{{< br >}} Significance: Music's Meaning in Everyday Life (Part II) {{< br >}}{{< br >}} Occasions of daily life as primary contexts for music making and musical markers of the life cycle. {{< br >}}{{< br >}}  | Scottish and Irish Bagpipes | Guest lecture & demonstration: bagpipes | &nbsp; |
-| 15–17 |  {{< br >}}{{< br >}} Music, Mobility and the Global Marketplace {{< br >}}{{< br >}} Materials, media, and economics of world music. Composing and improvising world music in America. Translocal connections and crossing between soundscapes. {{< br >}}{{< br >}}  | New music for gamelan | Workshops: Balinese gamelan and kecak |  {{< br >}}{{< br >}} Paper 2 due Session 15 {{< br >}}{{< br >}} Final project proposal due Session 17 {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Required concert: MIT Center for Art, Science & Technology [CAST Marathon](http://arts.mit.edu/cast-marathon-concert/) {{< br >}}{{< br >}} Features renowned guest artists Hauschka, Pamela Z., and Dewa Alit performing solo works and with students in MIT's own Gamelan Galak Tika, Glass Lab Orchestra, Lamine Touré and Rambax. {{< br >}}{{< br >}}  | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Music and Dance (Part I) {{< br >}}{{< br >}} The union of music with expressive movement. The dance as rhythm, cultural expression, and popular culture. {{< br >}}{{< br >}}  | Primary case study: Tango | &nbsp; |
-| 20–22 |  {{< br >}}{{< br >}} Music and Dance (Part II) {{< br >}}{{< br >}} The union of music with expressive movement. The dance as rhythm, cultural expression, and popular culture. {{< br >}}{{< br >}}  | Primary case study: Kathak | Workshops: Hindustani music, Kathak dance | Paper 3 due Session 20 |
-| 23 |  {{< br >}}{{< br >}} Music and Politics {{< br >}}{{< br >}} Music in political life, as an instrument of power and symbol of resistance. {{< br >}}{{< br >}}  | Primary case study: national anthems | &nbsp; |
-| 24 | Exam 2 | &nbsp; |
-| 25–27 | Final presentations | &nbsp; | Paper 4 due Session 26 |
-| 28 | Conclusions | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PRIMARY CASE STUDIES
+{{< thclose >}}
+{{< thopen >}}
+WORKSHOPS And DEMONSTRATIONS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction: What is a Soundscape?
+
+The concept of soundscapes and its application to the study of world music in North America.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Tuvan throat singing (khoomii)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sound: The Materials of Music
+
+Building a cross-cultural musical vocabulary, with attention to quality, pitch, rhythm, and intensity.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due Session 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Setting: The study of Local Musics
+
+Exploration of a composite "cityscape," the music of greater Boston.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Boston, including musics of ethnic communities; the "folk music scene"; the "early music" world, and others. Musical instruments and vocal styles.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecture & demonstration: Cory Pesaturo, accordion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Significance: Music's Meaning in Everyday Life (Part I)
+
+The role of drumming and dance in Senegal, West Africa.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sabar
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Senegalese drumming
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Catch-up / review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Required concert: Ana Moura at Berklee Performance Center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Significance: Music's Meaning in Everyday Life (Part II)
+
+Occasions of daily life as primary contexts for music making and musical markers of the life cycle.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Scottish and Irish Bagpipes
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture & demonstration: bagpipes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15–17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music, Mobility and the Global Marketplace
+
+Materials, media, and economics of world music. Composing and improvising world music in America. Translocal connections and crossing between soundscapes.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+New music for gamelan
+{{< tdclose >}}
+{{< tdopen >}}
+Workshops: Balinese gamelan and kecak
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 2 due Session 15
+
+Final project proposal due Session 17
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Required concert: MIT Center for Art, Science & Technology [CAST Marathon](http://arts.mit.edu/cast-marathon-concert/)
+
+Features renowned guest artists Hauschka, Pamela Z., and Dewa Alit performing solo works and with students in MIT's own Gamelan Galak Tika, Glass Lab Orchestra, Lamine Touré and Rambax.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music and Dance (Part I)
+
+The union of music with expressive movement. The dance as rhythm, cultural expression, and popular culture.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Primary case study: Tango
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20–22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music and Dance (Part II)
+
+The union of music with expressive movement. The dance as rhythm, cultural expression, and popular culture.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Primary case study: Kathak
+{{< tdclose >}}
+{{< tdopen >}}
+Workshops: Hindustani music, Kathak dance
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due Session 20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Music and Politics
+
+Music in political life, as an instrument of power and symbol of resistance.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Primary case study: national anthems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25–27
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 4 due Session 26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
